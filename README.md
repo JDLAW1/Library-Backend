@@ -1,10 +1,7 @@
-# Node.js template
+# Library-Backend
 
-This is a Node.js project.
+1. Abrir el link de la descripcion.
+2. codesandbox instalara automaticamente lo necesario y ejecutara el servidor.
+3. Revisa en la consola que el servidor se este ejecutando en el puerto 3000.
+4. Para ver la preview - https://xfgj4r-3000.csb.app/books
 
-Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io/p/dashboard).
-
-## Resources
-
-- [CodeSandbox — Docs](https://codesandbox.io/docs/learn)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
